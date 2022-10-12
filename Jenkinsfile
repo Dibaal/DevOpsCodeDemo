@@ -1,4 +1,4 @@
-
+what do we have here?
 pipeline{
     tools{
         jdk 'myjava'
